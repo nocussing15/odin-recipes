@@ -1,0 +1,61 @@
+.Book-Pages{
+    background-color: lightgreen;
+    color: white;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 45px;
+}
+
+h1.title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+
+
+.title.pho {
+    color: blue;
+}
+
+.description {
+    font-family: 'Jazz LET','Bradley Hand',sans-serif;
+    background-color:lightcoral ;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', sans-serif;
+    text-align: center;
+}
+
+li {
+    font-family: 'Times New Roman', Arial;
+}
+
+
+#ingredients-pho {
+    font-size: 117px;
+    color: orange;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+ul {
+    font-family: 'Comic Sans MS' sans-serif;
+    font-size : 20px;
+}
+
+ol {
+    font-weight: 600;
+    font-size: 20px;
+   
+}
+
+#chili-pic {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
